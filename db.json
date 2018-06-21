@@ -1,9 +1,17 @@
-[
-
 {
+	"categories": [{
+			"name": "Institute of Engineering",
+			"fav": true
+		},
+		{
+			"name": "Institute of Medicine",
+			"fav": false
+		},
+		{
+			"name": "Institute of Science",
+			"fav": true
+		}
 
-'name' : 'Category 1' 
 
+	]
 }
-
-]
