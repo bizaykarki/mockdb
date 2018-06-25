@@ -10,8 +10,164 @@
 		{
 			"name": "Institute of Science",
 			"fav": true
+		},
+		{
+			"name": "Institute of Forestry",
+			"fav": true
+		},
+		{
+			"name": "Institute of Microbioligy",
+			"fav": false
+		},
+		{
+			"name": "Institute of Aeronautics",
+			"fav": true
+		},
+		{
+			"name": "Institute of Agriculture",
+			"fav": true
+		},
+		{
+			"name": "Institute of Nursing",
+			"fav": false
 		}
 
 
+	],
+	"faculty": [{
+			"name": "Institute of Engineering(IOE)",
+			"set": [{
+					"id": 0,
+					"expanded": true,
+					"title": "SET 1",
+					"questions": [{
+							"id": 0,
+							"head": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						},
+						{
+							"id": 1,
+							"head": "lorem ipsum  is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						},
+						{
+							"id": 2,
+							"head": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						}
+					]
+				},
+				{
+					"id": 1,
+					"expanded": false,
+					"title": "SET 2",
+					"questions": [{
+						"id": 0,
+						"head": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+					}]
+				},
+				{
+					"id": 2,
+					"expanded": false,
+					"title": "SET 3",
+					"questions": [{
+							"id": 0,
+							"head": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						},
+						{
+							"id": 1,
+							"head": "lorem ipsum  is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Institute of Medicine(IOM)",
+			"set": [{
+					"id": 0,
+					"expanded": true,
+					"title": "SET 1",
+					"questions": [{
+							"id": 0,
+							"head": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						},
+						{
+							"id": 1,
+							"head": "lorem ipsum  is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						},
+						{
+							"id": 2,
+							"head": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						}
+					]
+				},
+				{
+					"id": 1,
+					"expanded": false,
+					"title": "SET 2",
+					"questions": [{
+						"id": 0,
+						"head": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+					}]
+				},
+				{
+					"id": 2,
+					"expanded": false,
+					"title": "SET 3",
+					"questions": [{
+							"id": 0,
+							"head": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						},
+						{
+							"id": 1,
+							"head": "lorem ipsum  is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Institute of Engineering(IOE)",
+			"set": [{
+					"id": 0,
+					"expanded": true,
+					"title": "SET 1",
+					"questions": [{
+							"id": 0,
+							"head": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						},
+						{
+							"id": 1,
+							"head": "lorem ipsum  is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						},
+						{
+							"id": 2,
+							"head": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						}
+					]
+				},
+				{
+					"id": 1,
+					"expanded": false,
+					"title": "SET 2",
+					"questions": [{
+						"id": 0,
+						"head": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+					}]
+				},
+				{
+					"id": 2,
+					"expanded": false,
+					"title": "SET 3",
+					"questions": [{
+							"id": 0,
+							"head": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						},
+						{
+							"id": 1,
+							"head": "lorem ipsum  is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+						}
+					]
+				}
+			]
+		}
 	]
 }
